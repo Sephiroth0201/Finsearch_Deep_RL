@@ -11,3 +11,10 @@ The end results proved that lstm had a much deeper and complex understanding of 
 The DQN agent on the other hand managed to perform very well on the training data but wasnt quite able to predict the drop in stock prices due to covid as it turned a 15L balance into around 22.5L while the PPO agent managed to turn a 10L balance into a 16L networth which is impressive but they got majorly outperformed by the benchmark lstm model.
 
 This makes sense as intuitively, analysing the complex and unpredictable behaviour of the  stock market can best be done by complex architectures like LSTM(Long Short Term Memory) in neural networks. This is especially true when the prices of thee stock market are governed by a 2 year long pandemic which is as unpredictable as it gets!
+
+References used 
+
+1 referred to the youtube video https://www.youtube.com/watch?v=D9sU1hLT0QY
+2 Edited the source code of the environment https://github.com/AminHP/gym-anytrading
+3 used this article as reference to create the benchmark lstm model https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
+4 last but not least https://chat.openai.com/ and  https://stackoverflow.com/ were used to help with the pesky bugs encountered while coding everything up!
