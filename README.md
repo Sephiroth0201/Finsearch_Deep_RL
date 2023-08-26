@@ -2,6 +2,8 @@
 This repository contains all the codes used to train/test the RL and benchmark models on historical stock data
 It also contains the weights of the trained DQN agent (dqn_model.zip) and LSTM model weights (lstm_weights.h5)
 
+For RL models we decided to train two different agents on two different RL algorithms to see how each one performs in the real world.One using the DQN(Deep Q Network) and another using the PPO(Proximal Policy Optimization)
+
 The models were trained on the historical stock data of nifty50 from jan 2010 to jun 2019 and tested on the nifty50 during the covid times july 19 to jun 21.
 This was a true test on how well the model had understood the trends in the stock market and to what degree they can predict the stock prices.
 
