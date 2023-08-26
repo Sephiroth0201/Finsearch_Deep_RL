@@ -15,6 +15,9 @@ This makes sense as intuitively, analysing the complex and unpredictable behavio
 References used 
 
 1 referred to the youtube video https://www.youtube.com/watch?v=D9sU1hLT0QY
+
 2 Edited the source code of the environment https://github.com/AminHP/gym-anytrading
+
 3 used this article as reference to create the benchmark lstm model https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
+
 4 last but not least https://chat.openai.com/ and  https://stackoverflow.com/ were used to help with the pesky bugs encountered while coding everything up!
